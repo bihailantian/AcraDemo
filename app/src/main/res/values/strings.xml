@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AcraDemo</string>
+    <string name="msg_acra_toast">msg_acra_toast</string>
+</resources>
